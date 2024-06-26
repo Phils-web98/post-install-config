@@ -46,9 +46,14 @@ This tutorial outlines the post-install configuration of the open-source help de
      ![image](https://github.com/Phils-web98/post-install-config/assets/172346798/bedbc20e-f4f2-412d-9e48-2af37bdfd22e)
      b) Provide a name then click "Create Team"
      ![image](https://github.com/Phils-web98/post-install-config/assets/172346798/3830a09f-9662-41ed-ab66-dd285e00d3a6)
+     c) You should get the following view
+     ![image](https://github.com/Phils-web98/post-install-config/assets/172346798/7ca0fd27-46ff-462f-862c-464374031c5c)
+  2) Create as many teams as needed for your organization following the previous steps
 
 
-- Item 4
+
+- Configure osTicket to Allow anyone to create tickets
+  1) 
 - Item 5
 
 <h2>Configuration Steps</h2>
